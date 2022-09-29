@@ -1,0 +1,25 @@
+body { 
+  background-color: #b5a789;
+  font-family:      sant-serif;
+  font-size:        small;
+  margin:           20px;
+}
+
+
+h1 {
+  color:            #954b4b;
+}
+
+#header {
+  background-color: #675c47;
+  margin:           10px;
+  height:           110px;
+}
+
+#footer {
+  background-color: #675c47;
+  color:            white;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px;
+}
