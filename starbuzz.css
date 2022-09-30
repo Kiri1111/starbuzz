@@ -23,3 +23,10 @@ h1 {
   padding:          15px;
   margin:           10px;
 }
+
+#main {
+  background:       #efe5d0 url(background.gif) top left;
+  text-align:       center;
+  font-size:        105%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
