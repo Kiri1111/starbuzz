@@ -39,16 +39,17 @@ p {
   width:            500px;
   float:            left;
 }
-#history{
+#history, #contacts , #time{
 background:       #efe5d0 url(images/background.gif) top left;
   text-align:       center;
   color:	        #2F4F4F;
   font-size:        140%;
   padding:          15px;
   margin:           10px 10px 10px 10px;
-  float:		  right;
+  float:		       right;
   width:            850px;
 }
+
 body { 
   background-color: #b5a789;
   font-family:      sant-serif;
