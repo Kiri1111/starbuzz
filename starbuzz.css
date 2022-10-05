@@ -36,8 +36,18 @@ p {
   font-size:        140%;
   padding:          15px 15px 15px 15px;
   margin:           10px;
-  width:            500px;
+  width:            450px;
   float:            left;
+}
+#coffee{
+  width: 200px;
+  border-radius: 15px;
+
+}
+#map{
+  width: 250px;
+  border-radius: 50px;
+  text-align:       center;
 }
 #history, #contacts , #time{
 background:       #efe5d0 url(images/background.gif) top left;
@@ -52,7 +62,7 @@ background:       #efe5d0 url(images/background.gif) top left;
 
 body { 
   background-color: #b5a789;
-  font-family:      sant-serif;
+  font-family:      sans-serif;
   font-size:        small;
   margin:           20px;
 }
